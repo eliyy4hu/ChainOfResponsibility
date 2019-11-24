@@ -1,0 +1,6 @@
+C:\Users\eliyy\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+C:\Users\eliyy\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+C:\Users\eliyy\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\eliyy\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\eliyy\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+C:\Users\eliyy\RiderProjects\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
